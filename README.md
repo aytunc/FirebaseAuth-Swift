@@ -5,7 +5,7 @@ Easily do login register and resend password operations on firebase in this proj
 ## Installation
 
 All the dependencies are already listed in the podfile 'pod install' to install all the dependencies
-Create a project in your firebase console(www.firebase.google.com) - 'IOS Google Sign In'
+Create a project in your firebase console(https://firebase.google.com) - 'IOS Google Sign In'
 Copy the automatically generated GoogleServiceInfo.plist file into your project in Xcode. Finally you are ready. :)
 
 ### Example
